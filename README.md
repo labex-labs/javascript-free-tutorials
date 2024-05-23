@@ -6,8 +6,8 @@
 
 JavaScript is a programming language that can be used to create interactive web pages. Every modern web browser has built-in support for JavaScript, so it's easy to get started with this skill tree. 
 
-|   Index | Name                                                     | Difficulty   | Tutorial                                                                                                         |
-|---------|----------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Tutorial                                                                                                        |
+|---------|---------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------|
 |     001 | 📖 Your First JavaScript Lab                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-javascript-lab-92948)                                   |
 |     002 | 📖 Basic JavaScript and DOM                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/basic-javascript-and-dom-290729)                                   |
 |     003 | 📖 Arrays and Objects                                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/arrays-and-objects-290728)                                         |
@@ -544,7 +544,8 @@ JavaScript is a programming language that can be used to create interactive web 
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [JavaScript Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [JavaScript Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
